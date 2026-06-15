@@ -49,7 +49,7 @@
 
 ---
 
-### 🤝 Mari Berjejaring
+### 🤝 Sosial Media
 
 <p align="left">
   <!-- Ganti URL href dengan link profil aslimu -->
@@ -62,7 +62,7 @@
   <a href="https://wa.me/6283892227274" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="warlabtea123@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=warlabtea123@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
