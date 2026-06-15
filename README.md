@@ -22,6 +22,7 @@
 
 ---
 
+
 ### 👨‍💻 Profil Singkat
 
 * 🔭 Saat ini sedang merancang **Sistem Reservasi Alat Lab Multi-Jurusan berbasis Role-Based Access Control (RBAC)**.
@@ -48,18 +49,22 @@
 
 ---
 
-### 📈 GitHub Analytics
+### 🤝 Mari Berjejaring
 
-<!-- STATISTIK ADAPTIF -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rofiawal&show_icons=true&bg_color=000000&title_color=00ff00&text_color=00ffff&icon_color=00ff00&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rofiawal&show_icons=true&bg_color=ffffff&title_color=000000&text_color=0055ff&icon_color=000000&hide_border=true">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rofiawal&show_icons=true&bg_color=000000&title_color=00ff00&text_color=00ffff&icon_color=00ff00&hide_border=true">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rofiawal&background=000000&ring=00ff00&fire=00ff00&currStreakNum=00ffff&sideNums=00ffff&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ffff&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rofiawal&background=ffffff&ring=0055ff&fire=0055ff&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=555555&hide_border=true">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rofiawal&background=000000&ring=00ff00&fire=00ff00&currStreakNum=00ffff&sideNums=00ffff&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ffff&hide_border=true">
-  </picture>
-</div>
+<p align="left">
+  <!-- Ganti URL href dengan link profil aslimu -->
+  <a href="https://linkedin.com/in/Muhammad Rofi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/rofi_gerrad27" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://wa.me/6283892227274" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="warlabtea123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
